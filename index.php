@@ -4,7 +4,7 @@ $servername = "localhost";
 $username = "root";
 $password = "";
 $dbName = "freelancehunt";
-$token = "6a4b1139068b9cade51b7b6169e3f69a04718191";
+$token = "";
 $project_category = '1,86,99';
 // End Settings
 
